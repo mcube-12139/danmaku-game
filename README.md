@@ -16,6 +16,7 @@
 
 更多信息请自行阅读各文件内容。
 ## 预览
+![](preview/mine-sweeping.png)
 ![](preview/sudoku.png)
 ## 鸣谢
 * Bilibili UP主红色xyz（322954448）。程序中直播间连接与弹幕抓取部分参考了他的专栏。

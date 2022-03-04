@@ -4,9 +4,7 @@
   "description": "",
   "main": "main.js",
   "dependencies": {},
-  "devDependencies": {
-    "electron": "^12.0.5"
-  },
+  "devDependencies": {},
   "scripts": {
     "start": "electron ."
   },
